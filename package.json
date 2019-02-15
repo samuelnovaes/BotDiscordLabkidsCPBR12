@@ -1,0 +1,20 @@
+{
+	"name": "labkids-bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"discord.js": "^11.4.2",
+		"johnny-five": "^1.0.0"
+	},
+	"devDependencies": {
+		"nodemon": "^1.18.10"
+	}
+}
